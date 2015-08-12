@@ -101,6 +101,14 @@ Refunds are NOT entitled when:
 2. Requirements change or become no longer relevant
 3. CUSTOMER it at fault for delaying full completion of EXCHANGE within 8 weeks
 
+### 4.3 Inhibiting delivery
+
+If a CUSTOMER inhibits an EXPERT from being able to deliver service,
+the EXPERT is entitile to full payment and refunds are not available.
+
+In the case of live pairing, if a CUSTOMERs setup or bandwidth inhibits 
+communications, or they are more than 15 minutes late, the EXPERT is entitled the EXCHANGE is considering complete.
+
 <!--
 6. Unconsumed purchases
 
