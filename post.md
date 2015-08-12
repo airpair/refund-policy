@@ -69,8 +69,8 @@ book the customer may swap to another EXPERT.
 
 #### 3.2.1 Live Pairing & Offline Scenarios
 
-Most commonly, delivering scheduled time means puntually attending and being
-present for the whole length of a live pairing session.
+Most commonly, delivering scheduled time means punctually attending and being
+present for the entire length of a live pairing session.
 
 In the case of offline work, the confirmed booking time represents
 the agreement of when the work will be complete and handed over.
