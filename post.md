@@ -67,7 +67,7 @@ book the customer may swap to another EXPERT.
 **EXCHANGE** that have not been released from escrow.**
 - - -
 
-#### 3.2.2 Live Pairing & Offline Scenarios
+#### 3.2.1 Live Pairing & Offline Scenarios
 
 Most commonly, delivering scheduled time means puntually attending and being
 present for the whole length of a live pairing session.
