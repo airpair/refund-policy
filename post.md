@@ -1,6 +1,6 @@
 Synopsis
 > Only two scenarios qualify customers for refunds. If you are short on time, 
-we think a minute to read [sec 2.1](#2-1-gaurantee-terms) and [sec 3.2](#3-2-delivering-scheduled-consulting-time) is adequette to understand when customers are entitled to refunds. For full context and the nitty gitty, you
+we think a minute to read [sec 2.1](#2-1-gaurantee-terms) and [sec 3.2](#3-2-delivering-on-scheduled) is adequette to understand when customers are entitled to refunds. For full context and the nitty gitty, you
 can read this policy in full. It coveres responsibilities of
 customers and experts impacting refunds as well as explicitly flagging some
 (but not all) scenarios that do not qualify.
@@ -60,7 +60,7 @@ negotiate and confirmed a delivery time as quickly as possible. If the expert
 has not confirmed or suggested alternate time options after 12 hours from being
 book the customer may swap to another EXPERT.
 
-### 3.2 Delivering scheduled consulting time
+### 3.2 Delivering on schedule
 
 > - - -
 **In the event an **EXPERT** is (and not the **CUSTOMER** in any way) at fault for failing to completing all scheduled consulting time, **CUSTOMERS** have the right to a full refund (or credit) of all funds associated with the 
