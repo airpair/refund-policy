@@ -1,11 +1,9 @@
 Synopsis
-> Only two scenarios qualify customers for refunds. We think a couple of minutes
-to read [sec 2.1](#2-1-gaurantee-terms) on our *Money Back Gaurantee* and [sec 3.2](#3-2-delivering-scheduled-consulting-time) on *failure to 
-deliver consulting services* is adequette to understand when customers are 
-entitled to refunds. If you have time and would like full context and the nitty 
-gitty, feel free to read this policy in full. It coveres responsibilities of
-all parties that impact refunds and some (but not all) scenarios that do not 
-qualify.
+> Only two scenarios qualify customers for refunds. If you are short on time, 
+we think a minute to read [sec 2.1](#2-1-gaurantee-terms) and [sec 3.2](#3-2-delivering-scheduled-consulting-time) is adequette to understand when customers are entitled to refunds. For full context and the nitty gitty, you
+can read this policy in full. It coveres responsibilities of
+customers and experts impacting refunds as well as explicitly flagging some
+(but not all) scenarios that do not qualify.
 
 ## 1. AirPair is a Markeplace
 
