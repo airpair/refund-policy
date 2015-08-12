@@ -77,9 +77,7 @@ the agreement of when the work will be complete and handed over.
 
 #### 3.2.2 Partial delivery
 
-If CUSTOMER and EXPERT have worked together for 10 hours released from
-from escrow, then CUSTOMER books the EXPERT again for 5 additional hours, but 
-the expert only completes 2 by the end of the confirmed time, the CUSTOMER is entitled to a refund (or credit) for the total amount of the 5 hours.
+If CUSTOMER and EXPERT originally worked for 10 hours, that were released from from escrow, then the CUSTOMER books the EXPERT for 5 additional hours, but the EXPERT only completes 2 by the delivery time, the CUSTOMER is entitled to a refund (or credit) for the full amount pair for 5 hours.
 
 ## 4. Customer responsibilities
 
