@@ -21,24 +21,23 @@ By partipating in an EXCHANGE, you accept this Refund Policy and acknowledge:
 Healthy `consumer <-> marketplace <-> supplier` interactions are 
 more complex than traditional `consumer <-> supplier` ecommerce.
 
-To continue meeting CUSTOMER expectations for fast turn around  efficient 
+To continue meeting CUSTOMER expectations for fast turn around and efficient 
 EXCHANGE with high quality available EXPERTS, CUSTOMERS and EXPERTS have duties 
 towards one another to assit in completing EXCHANGES in reasonable timeframes. 
-Failure to fulfil resonsibilities outline in Sec 3 and Sec 4 in a reliabile or 
-timely manner as will impact entitlement and extent of refunds.
+Failure to fulfil resonsibilities outline in sec 3 and sec 4 in a reliabile or 
+timely manner impact entitlement to and extent of refunds.
 
 ## 2. AirPair Money Back Gaurantee
 
-To save **CUSTOMERS** time researching EXPERTS and availability -
-required on most other platforms - AIRPAIR was designed for 
-CUSTOMERS to trust the marketplace in its representation of EXPERTs
+To save **CUSTOMERS** time researching EXPERTS and availability (
+required on most other platforms), AIRPAIR was designed for 
+CUSTOMERS to trust the marketplace in its representation of EXPERTS
 as suitable quality and relevant for a given EXCHANGE. 
 
 AIRPAIR provides curated recommendations, ratings and links of social profiles
-to help CUSTOMERS evalute and choose who to book, however, CUSTOMERS are 
-ultimately responsible for deciding an EXPERT matches their expectations and
-do so implicitly so when they continue working past their first hour with any 
-new EXPERT.
+to help CUSTOMERS evalute and choose who to book. CUSTOMERS are however, 
+ultimately responsible for deciding EXPERTs matches their expectations and
+confirm so implicitly when they continue working past their first hour with any new EXPERT.
 
 CUSTOMERS are entitled to NO QUESTIONS ASKED MONEY BACK WITHIN 5 BUSINESS DAYS
 within the constraints outlined in [sec 2.1](#2-1-gaurantee-terms).
