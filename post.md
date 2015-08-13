@@ -122,9 +122,10 @@ their developers.
 
 ### 5.1 Credit expiry
 
-Credit is valid and expires either <sub>(1)</sub> at the end of each year, or
-<sub>(2)</sub> 3 months after purchase if the credit was purchased within
-3 months before the end of the current lunar year.
+Credit is valid until and expires either:
+
+1. At the end of the current lunar year.
+2. After 3 months, if purchased after Oct 1st in the current year.
 
 ### 5.2 Credit is non-refundable
 
