@@ -1,6 +1,6 @@
 Synopsis
 > Only two scenarios qualify customers for refunds. If you are short on time, 
-we think a minute to read [sec 2.1](#2-1-guarantee-terms) and [sec 3.2](#3-2-delivering-on-schedule) is adequate to understand when customers are entitled to refunds. For full context and the nitty-gritty, you
+we think a minute to read [sec 2.1](#2-1-guarantee-terms) and [sec 3.2](#3-2-delivering-on-scheduled) is adequate to understand when customers are entitled to refunds. For full context and the nitty gritty, you
 can read this policy in full. It covers responsibilities of
 customers and experts impacting refunds as well as explicitly flagging some
 (but not all) scenarios that do not qualify.
@@ -109,15 +109,25 @@ the EXPERT is entitled to full payment and refunds are not available.
 In the case of live pairing, if a CUSTOMER's setup or bandwidth inhibits 
 communications, or they are more than 15 minutes late, the EXPERT is entitled to consider the EXCHANGE complete.
 
-<!--
-6. Unconsumed purchases
+## 5. Unconsumed credit
 
-6.1 Time
+AirPair offers CUSTOMERS options to purchase <sub>(1)</sub> specific blocks of
+**time** (`"bookings"`) locked in with a particular EXPERT and <sub>(2)</sub> **credit** that enables CUSTOMERS to more flexibly deduct amounts from a balance 
+when EXPERTS, quantity of help and even requirements are not yet known. 
 
-6.2 Credit
+Credit often comes with a bonus 5% - 20% extra spend, depending on purchase size 
+and is useful for team scenarios where financial controllers prefer their
+credit card info and purchase additional privileges not to to be shared with 
+their developers.
 
-If a customer purchases credit, that credit is available until the beginning of
-the following year. In the case the credit was purchased less than 3 months
-before the 
--->
+### 5.1 Credit expiry
 
+Credit is valid and expires either <sub>(1)</sub> at the end of each year, or
+<sub>(2)</sub> 3 months after purchase if the credit was purchased within
+3 months before the end of the current lunar year.
+
+### 5.2 Credit is non-refundable
+
+Credit and partial credit purchases are non-refundable *unless* the purchase
+is the CUSTOMERS first purchase via AirPair and their first  EXPERT is claimed 
+unfit within the boundaries outlined in Sec 2.1
