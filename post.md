@@ -1,6 +1,6 @@
 Synopsis
 > Only two scenarios qualify customers for refunds. If you are short on time, 
-we think a minute to read [sec 2.1](#2-1-guarantee-terms) and [sec 3.2](#3-2-delivering-on-scheduled) is adequette to understand when customers are entitled to refunds. For full context and the nitty gitty, you
+we think a minute to read [sec 2.1](#2-1-guarantee-terms) and [sec 3.2](#3-2-delivering-on-scheduled) is adequette to understand when customers are entitled to refunds. For full context and the nitty gritty, you
 can read this policy in full. It coveres responsibilities of
 customers and experts impacting refunds as well as explicitly flagging some
 (but not all) scenarios that do not qualify.
