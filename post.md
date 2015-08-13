@@ -1,20 +1,20 @@
 Synopsis
 > Only two scenarios qualify customers for refunds. If you are short on time, 
-we think a minute to read [sec 2.1](#2-1-guarantee-terms) and [sec 3.2](#3-2-delivering-on-scheduled) is adequette to understand when customers are entitled to refunds. For full context and the nitty gritty, you
-can read this policy in full. It coveres responsibilities of
+we think a minute to read [sec 2.1](#2-1-guarantee-terms) and [sec 3.2](#3-2-delivering-on-scheduled) is adequate to understand when customers are entitled to refunds. For full context and the nitty gritty, you
+can read this policy in full. It covers responsibilities of
 customers and experts impacting refunds as well as explicitly flagging some
 (but not all) scenarios that do not qualify.
 
-## 1. AirPair is a Markeplace
+## 1. AirPair is a Marketplace
 
 ### 1.1 Marketplace vs Consulting Services
 
 ***AIRPAIR*** <sup>**AIRPAIR** is defined as the services provided through the domain [airpair.com](https://www.airpair.com/)</sup> provides a platform for connecting and facilitating ***CUSTOMER(s)*** <sup>**CUSTOMER** is defined as user *who has paid to* to get software help via AIRPAIR and not had their payment(s) refunded or reversed.</sup> and ***EXPERT(s)*** <sup>**EXPERT** is defined as a user presented on AIRPAIR as a supplier of paid software consulting services</sup> to ***EXCHANGE*** <sup>**EXCHANGE** is defined as a `booking` by a CUSTOMER with payment into AirPair escrow intended for released to the EXPERT upon delivery of software consulting services.</sup> high-end software related consulting services.
 
-By partipating in an EXCHANGE, you accept this Refund Policy and acknowledge:
+By participating in an EXCHANGE, you accept this Refund Policy and acknowledge:
 1. This Refund Policy is designed in the context that AIRPAIR is a marketplace - and NOT a supplier of Software Consulting Services. 
-2. CUSTOMERS are solely responsible for incorporating information, recomendataions and code provided by EXPERTS into their own products.
-3. AIRPAIR and EXPERTS are fully indemnified against damages or loss of revenue caused or experience by CUSTOMERS.
+2. CUSTOMERS are solely responsible for incorporating information, recommendations and code provided by EXPERTS into their own products.
+3. AIRPAIR and EXPERTS are fully indemnified against damages or loss of revenue caused or experienced by CUSTOMERS.
 
 ### 1.2 Your responsibilities 
 
@@ -35,7 +35,7 @@ CUSTOMERS to trust the marketplace in its representation of EXPERTS
 as suitable quality and relevant for a given EXCHANGE. 
 
 AIRPAIR provides curated recommendations, ratings and links of social profiles
-to help CUSTOMERS evalute and choose whom to book. CUSTOMERS are, however, 
+to help CUSTOMERS evaluate and choose whom to book. CUSTOMERS are, however, 
 ultimately responsible for deciding EXPERTs matches their expectations and
 confirm so implicitly when they continue working past their first hour with any new EXPERT.
 
